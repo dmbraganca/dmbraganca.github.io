@@ -9,7 +9,7 @@ export const metadata = {
 
 export default function About() {
   return (
-    <div className="flex flex-col px-4 lg:px-36 py-16 gap-6">
+    <div className="flex flex-col m-auto px-4 lg:px-36 py-16 gap-6">
 
       <div className="flex flex-col-reverse lg:flex-row justify-between gap-8">
         {/* Left Section - Text */}
