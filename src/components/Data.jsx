@@ -136,19 +136,19 @@ export const designList = [
   {
     title: "Whimsical",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.",
+      "Whimsical is a collaborative visual workspace that offers wireframing tools for creating wireframes, flowcharts, mind maps, sticky notes, and more.",
   },
   {
     title: "Figma",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.",
+      "Figma is a cloud-based design tool that allows users to create, share, and test digital products and experiences",
   },
 ];
 export const productivityList = [
   {
-    title: "Item Name",
+    title: "Notion",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.",
+      "Notion is a productivity app and collaboration platform that helps users organize, manage projects, and take notes.",
   },
   {
     title: "Item Name",
@@ -170,39 +170,9 @@ export const productivityList = [
 /* Data for the Projects Page*/
 export const projectList = [
   {
-    logo: "/ProjectCard/company.svg",
-    name: "Company",
+    logo: "/ProjectCard/github.svg",
+    name: "Github Portfolio",
     content: "Creating technology to empower civilians to explore space on their own terms.",
-    link: "https://company.com",
-  },
-  {
-    logo: "/ProjectCard/company.svg",
-    name: "Company",
-    content: "Creating technology to empower civilians to explore space on their own terms.",
-    link: "https://company.com",
-  },
-  {
-    logo: "/ProjectCard/company.svg",
-    name: "Company",
-    content: "Creating technology to empower civilians to explore space on their own terms.",
-    link: "https://company.com",
-  },
-  {
-    logo: "/ProjectCard/company.svg",
-    name: "Company",
-    content: "Creating technology to empower civilians to explore space on their own terms.",
-    link: "https://company.com",
-  },
-  {
-    logo: "/ProjectCard/company.svg",
-    name: "Company",
-    content: "Creating technology to empower civilians to explore space on their own terms.",
-    link: "https://company.com",
-  },
-  {
-    logo: "/ProjectCard/company.svg",
-    name: "Company",
-    content: "Creating technology to empower civilians to explore space on their own terms.",
-    link: "https://company.com",
+    link: "https://dmbraganca.github.io",
   },
 ];
