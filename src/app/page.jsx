@@ -17,7 +17,7 @@ export default function Home() {
         className="introduction"
         title={"Dylan is A Software Engineer"}
         content={
-          "Hi! I'm a software engineering student with a passion for solving complex problems and building meaningful digital experiences. As a member of the Church of Jesus Christ of Latter-day Saints, I’m dedicated to integrity, continuous learning, and collaboration. My portfolio highlights projects that blend technical skills with a user-centered approach, from full-stack web development to data-driven solutions. I’m excited to contribute my skills and values to create impactful software that makes a difference."
+          "Hi! I'm a software engineering student with a passion for solving complex problems and building meaningful digital experiences. As a member of the Church of Jesus Christ of Latter-day Saints, I'm dedicated to integrity, continuous learning, and collaboration. I’m excited to contribute my skills and values to create impactful software that makes a difference."
         }
         socialLinks={socialLinks}
       />

@@ -90,46 +90,31 @@ export const articleList = [
 /* Data for the Uses Page*/
 export const workstationList = [
   {
-    title: "Item Name",
+    title: "Lenovo Yoga 7i 16-inch 2-in-1",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.",
+      "The Lenovo Yoga 7i 16-inch 2-in-1 features a 12th Gen Intel Core i7 processor, up to 16GB RAM, up to 1TB SSD, a 16-inch 2.5K touchscreen with a 360-degree hinge, and Intel Iris Xe graphics.",
   },
   {
-    title: "Item Name",
+    title: "Samsung Galaxy Tab S8+",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.",
-  },
-  {
-    title: "Item Name",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.",
-  },
-  {
-    title: "Item Name",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.",
-  },
-  {
-    title: "Item Name",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.",
+      "The Samsung Galaxy Tab S8+ features a 12.4-inch Super AMOLED display, Snapdragon 8 Gen 1 processor, up to 12GB RAM, up to 256GB storage (expandable), an 8,000mAh battery, and includes S Pen support.",
   },
 ];
 export const developmentList = [
   {
-    title: "Item Name",
+    title: "Visual Studio Code",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.",
+      "Visual Studio Code (VS Code) is a code editor and integrated development environment (IDE) that allows developers to edit, build, and debug code.",
   },
   {
-    title: "Item Name",
+    title: "Webstorm",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.",
+      "LWebStorm is a paid, licensed JavaScript and TypeScript IDE from JetBrains that helps developers work more efficiently.",
   },
   {
-    title: "Item Name",
+    title: "IntelliJ IDEA",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.",
+      "IntelliJ IDEA is an integrated development environment (IDE) that helps developers create, edit, debug, and manage code.",
   },
 ];
 export const designList = [
@@ -149,21 +134,6 @@ export const productivityList = [
     title: "Notion",
     description:
       "Notion is a productivity app and collaboration platform that helps users organize, manage projects, and take notes.",
-  },
-  {
-    title: "Item Name",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.",
-  },
-  {
-    title: "Item Name",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.",
-  },
-  {
-    title: "Item Name",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.",
   },
 ];
 
