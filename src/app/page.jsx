@@ -10,7 +10,7 @@ export default function Home() {
     <div>
       <Image fill={true} src={"/matrix.jpg"}/>
       <div
-        className="absolute flex top-[25%] left-[25%] w-[50%] h-[175px] text-center text-2xl justify-center items-center rounded-lg border-2 bg-white">
+        className="absolute flex top-[25%] left-[25%] w-[50%] h-[175px] text-center text-3xl justify-center items-center rounded-lg border-2 bg-white">
         What is Mike&apos;s girlfriend&apos;s name in Stranger Things?
       </div>
       <div
